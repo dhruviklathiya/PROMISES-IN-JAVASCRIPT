@@ -15,7 +15,7 @@ d.then(send_execution_here_after_our_whatever_argument_is_called)
 
 
 // Visaulise this
-//                                IMAGINE THIS AS PROXY
+//                                IMAGINE THIS AS TELEPORT A
 //                                    ||
 //                                    ||
 //                                    ||
@@ -35,4 +35,4 @@ d.then(send_execution_here_after_our_whatever_argument_is_called)
 //    ||
 //    ||
 //    ||
-//   AFTER OUR passed_to_promise_object is done with execution it will trigger function passed in d.then(send_execution_here_after_our_whatever_argument_is_called)
+//   TELEPORT POINT B === AFTER OUR passed_to_promise_object is done with execution it will trigger function passed in d.then(send_execution_here_after_our_whatever_argument_is_called)
