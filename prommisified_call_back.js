@@ -5,7 +5,6 @@ const starting_function = (next_argument_from_chain) => {
     setTimeout(() => {
         console.log("hi")
         next_argument_from_chain()
-        // next_argument_from_chain
     }, 1000)
 }
 
