@@ -44,3 +44,5 @@ const d = new Promise((resolve) => {
 })
 
 d.then(setTimeout_promisified_2s).then(setTimeout_promisified_3s).then(setTimeout_promisified_5s)
+
+// Leraning: We must return Promise from chained function
